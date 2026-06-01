@@ -29,7 +29,6 @@ Both machines run on an isolated VMware network.
 
 ### 1. Host Discovery
 ```bash
-nmap -sn 192.168.x.0/24
 nmap 172.16.148.133
 nmap -sV 172.16.148.133
 nmap -0 172.16.148.133

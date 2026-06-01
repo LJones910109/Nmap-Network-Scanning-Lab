@@ -34,5 +34,3 @@ nmap 172.16.148.133
 nmap -sV 172.16.148.133
 nmap -0 172.16.148.133
 nmap -A 172.16.148.133
-
-<img width="648" height="520" alt="Scan-Basic-port" src="https://github.com/user-attachments/assets/c56d22ca-f1a2-4546-8545-0ed86f9fd4d7" />
